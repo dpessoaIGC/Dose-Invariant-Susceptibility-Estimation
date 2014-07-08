@@ -1,4 +1,4 @@
-DISE: Dose-Invariant Susceptibility Estimation
+DISE: Dose-Invariant Susceptibility Estimator
 ============
 
 Estimating susceptibility distributions from dose-response curves and from survival over time of hosts challenged with escalating virus doses.
